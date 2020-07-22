@@ -1,0 +1,13 @@
+A factory produces three types of elements (A, B, C) which are painted in multiple colours. The order of painting matters becouse the paint is applied 
+in layers to different fragments of the element and the duration of putting each paint also differs becouse it depends on the size and shape of surface which 
+needs to be covered. At some point the elements are dried in a special oven and later, some finishing lacquers are applied:
+
+A: red(15 min) -> green(10 min) -> oven: lower temperature(15 min) -> lacquer(10 min) -> enamel(5 min)
+B: green(30 min) -> red(15 min) -> oven: high temperature(8 min) -> enamel(15 min) -> lacquer(10 min)
+C: green(22 min) -> red(14 min) -> oven: lower temperature(15 min) -> lacquer(8 min) -> enamel(3 min)
+
+Each paint or lacquer is applied by a different painting machine. Each of these machines can paint only one element at a time.
+The oven has bigger capacity, however, and it can handle up to 2 items at a time. It is power consuming, so items dried in the same temperature should be dried
+together (appropriate drying task should start at the same time). 
+Assuming that we start painting all elements A-C at the same moment, is it possible to finish the whole process in 2:30 hours?
+What is the detailed schedule?
