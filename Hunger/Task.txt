@@ -1,0 +1,23 @@
+Student Bogdan is at the canteen. He is extremely hungry after a whole day of programming labs and
+he has a limited budget for dinner – 25 zł – so he decided to spend it wisely and get the most
+calories possible.
+What should Bogdan order and how much would he pay for this? Assume that each dish may be
+chosen only once (Adaś does not want to eat anything twice).
+Make sure that the menu selected for Bogdan contains something of fruit or vegetable.
+
+-Tomato soup with rice -6zł -320kcl
+-Chicken soup with noodles -7zł -340kcl
+-Roasted chicken fillet with cheese -10zł -560kcl
+-Roasted pork -6zł -160kcl
+-Bigos -6zł -224kcl
+-Boiled potatoes -3zł -130kcl
+-French fries -5zł -330kcl
+-Rice -3zł -250kcl
+-Pancakes with white cheese -12zł -460kcl
+-Coleslaw salad -4zł -100kcl
+-Red cabbage -4zł -160kcl
+-Orange juice -4zł -100kcl
+-Water -3zł -0kcl
+-Cola -5zł -100kcl
+-Beer -5zł -110kcl
+
